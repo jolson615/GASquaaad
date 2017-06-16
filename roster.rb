@@ -1,1 +1,1 @@
-students=[ "Adrian", "Anya", "William", "Elizabeth", "Olivia", "Clea"]
+students=[ "Adrian", "Anya", "William", "Elizabeth", "Olivia", "Katie", "Clea"]
